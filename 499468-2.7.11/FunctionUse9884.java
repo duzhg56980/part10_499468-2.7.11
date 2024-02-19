@@ -1,0 +1,6 @@
+import org.apache.dubbo.registry.multiple.MultipleRegistry;
+public class FunctionUse9884 {
+public void funcUse() {
+MultipleRegistry multipleregistry = new MultipleRegistry();
+}
+}
